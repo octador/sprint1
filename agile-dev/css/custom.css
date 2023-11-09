@@ -1,0 +1,15 @@
+body{
+    margin: 0px;
+}
+header{
+    background-color: rgb(246, 92, 15);
+}
+.barre-top{
+    padding-top: 10px;
+    padding-left: 20px;
+    background-color: black;
+}
+ul{
+    display: flex;
+    color: aliceblue;
+}
