@@ -66,11 +66,14 @@ font-size: 20px;
 
 .form {
     margin: 0 auto;
-    width: 250px;
+    width:231px;
     padding: 2em;
     border: 2px solid #ccc;
     border-radius: 1em;
-    margin-right: 100px;
+    margin-right: 90px;
+    height: 100px;
+    margin-top: 230px;
+    
   }
 .form ul {
     list-style: none;
@@ -103,43 +106,18 @@ textarea {
     margin-left: 0.6em;
     padding-left: 85px;
   }
+.trois {
+display: flex;
+}
+.winn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.winn p {
+  
+}
 
-.winn img  {
-height: 10px;
- }
 
-body{
-    padding: 0px;
-    margin: 0px;
-}
-.barre-top{
-    display: flex;
-    justify-content: space-between;
-    height: 50px;;
-    width: 100%;  
-    background-color: black;
-}
-.liste-logo{
-    display: flex;
-    margin-top: 0px;
-    margin-bottom: 0px;
-    font-size: 20px;
-    color: white;
-    margin-right: 4rem;
-}
-.liste-logo li{ 
-    padding-top:5px;  
-    padding-left: 60px;
-    padding-right: 60px;
-    list-style-type: none;
-}
-.liste-logo li:hover{
-    background-color: aliceblue;
-}
-.logo-application{
-    padding-top: 10px;
-    padding-left: 10px;
-}
-.titre-header{
-    font-size: 4.5rem;
-}
+
+
