@@ -4,7 +4,9 @@ body{
 }
 header{
     width: 100%;
+    color: black;
     background-color: rgb(246, 92, 15);
+    height: 500px;
 }
 
 .barre-top{
@@ -34,4 +36,7 @@ header{
 .logo-application{
     padding-top: 10px;
     padding-left: 10px;
+}
+.titre-header{
+    font-size: 4.5rem;
 }
